@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bbb6ac467c0e493b98728cebea8fa01, type: 3}
+  m_Name: NormalZone_10-20_RoundInfo
+  m_EditorClassIdentifier: 
+  roundZoneType: 0
+  slices:
+  - {fileID: 11400000, guid: 65c845ca5201a477a87827adbf956cc8, type: 2}
+  - {fileID: 11400000, guid: 7da174e125a914c498e35e86f87ab13b, type: 2}
+  - {fileID: 11400000, guid: 7da174e125a914c498e35e86f87ab13b, type: 2}
+  - {fileID: 11400000, guid: 6edbfd3d602784c67add5b7da03ce4fc, type: 2}
+  - {fileID: 11400000, guid: 6edbfd3d602784c67add5b7da03ce4fc, type: 2}
+  - {fileID: 11400000, guid: 5e6e330f58166401889e43f8092016bc, type: 2}
+  - {fileID: 11400000, guid: 5e6e330f58166401889e43f8092016bc, type: 2}
+  - {fileID: 11400000, guid: de0db0953819e4e5d922e961a5c20c39, type: 2}

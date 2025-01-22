@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fe8c5e74391d403ea7829b59c0d9cd6, type: 3}
+  m_Name: Chest_Big_3-8_PrizeItem
+  m_EditorClassIdentifier: 
+  item: {fileID: 11400000, guid: 00657e1281f2946de88560410a421c51, type: 2}
+  amountInterval: {x: 3, y: 8}
+  spinAction: {fileID: 11400000, guid: b5b8e1a9966e54608946ab296d370056, type: 2}
